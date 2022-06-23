@@ -9,6 +9,10 @@ Instructor led code dissemination: <br>
 https://www.codepile.net/pile/Python-RP
 
 
+## Some pre-lesson familiarisation resource:
+https://www.youtube.com/watch?v=kqtD5dpn9C8
+https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg (maybe post lesson would be better for this)                                 
+
 ## Other Learning Resources:
 Video: https://www.udemy.com/course/100-days-of-code/
 
